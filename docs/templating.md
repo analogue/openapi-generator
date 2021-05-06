@@ -16,7 +16,7 @@ The transform logic needs to implement [CodegenConfig.java](https://github.com/o
 ## Modifying Templates
 
 > OpenAPI Generator applies user-defined templates via options:  
-> * CLI: `-t/--template` CLI options
+> * CLI: `-t/--template-dir` CLI options
 > * Maven Plugin: `templateDirectory`
 > * Gradle Plugin: `templateDir`
 
